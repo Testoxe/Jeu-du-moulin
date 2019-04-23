@@ -1,2 +1,2 @@
-Version graphique du jeu du moulin codée en cpp et basée sur la librairie graphique cocos2dx avec une intelligence artificielle basée sur les algorithmes MiniMax et AlphaBeta
+Graphic version of the game "Nine men's morris" on C++, based on the graphic library Cocos2d-X and with a Minimax and AlphaBeta artificial intelligence.
 Made with Yassine Ech-Cheblaouy
